@@ -1,7 +1,7 @@
 version control system is also known as software configuration management(scm) or source code manager(scm)
 
 
-developer-->write code-->files
+developer-->write code-->files-->deploy the codes/checkin the codes
 
 
 100 files developed
